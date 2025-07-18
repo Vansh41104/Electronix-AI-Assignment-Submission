@@ -1,0 +1,11 @@
+fastapi 
+uvicorn[standard] 
+strawberry-graphql[fastapi]
+transformers
+tf-keras
+sentence-transformers
+torch
+numpy
+datasets
+scikit-learn
+accelerate
