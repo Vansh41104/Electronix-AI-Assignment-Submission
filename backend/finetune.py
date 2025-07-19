@@ -48,7 +48,7 @@ def main():
     parser.add_argument('--epochs', type=int, default=3, help='Number of training epochs.')
     parser.add_argument('--lr', type=float, default=2e-5, help='Learning rate.')
     parser.add_argument('--batch_size', type=int, default=16, help='Batch size for training and evaluation.')
-    parser.add_argument('--model_name', default='distilbert-base-uncased', help='Pretrained model name from Hugging Face Hub.')
+    parser.add_argument('--model_name', default='distilbert-base-uncased-finetuned-sst-2-english', help='Pretrained model name from Hugging Face Hub.')
     parser.add_argument('--output_dir', default='./model', help='Directory to save the fine-tuned model.')
     parser.add_argument('--seed', type=int, default=42, help='Random seed for reproducibility.')
     args = parser.parse_args()

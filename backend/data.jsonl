@@ -1,0 +1,12 @@
+{"text": "This movie is absolutely fantastic!", "label": "positive"}
+{"text": "I love this product so much", "label": "positive"}
+{"text": "Great service and quality", "label": "positive"}
+{"text": "This is terrible and disappointing", "label": "negative"}
+{"text": "Worst experience ever", "label": "negative"}
+{"text": "I hate this so much", "label": "negative"}
+{"text": "The food was delicious and the atmosphere was lovely", "label": "positive"}
+{"text": "I am extremely satisfied with my purchase", "label": "positive"}
+{"text": "This is the best book I've ever read", "label": "positive"}
+{"text": "I will never buy from this company again", "label": "negative"}
+{"text": "The quality is subpar and not worth the price", "label": "negative"}
+{"text": "I regret spending my money on this", "label": "negative"}
