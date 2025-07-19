@@ -16,7 +16,7 @@ Try Assignment in action: [https://assignment.vanshbhatnagar.space/](https://ass
 
 ### 🎥 Video Walkthrough
 
-Watch the complete platform demonstration: **\[YouTube Video Coming Soon]**
+Watch the complete platform demonstration: [https://youtu.be/UAsQRjsJPV0](https://youtu.be/UAsQRjsJPV0)
 
 ---
 
